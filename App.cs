@@ -117,7 +117,7 @@ public class Program
 
          Console.WriteLine("Circle's Area: " + "\n22/7 = " + (num * num * 22/7) + "cm^2 " + "\n3,14 = " + (num * num * 3.14) + "cm^2");
          Console.WriteLine("");
-         Console.WriteLine("Circle's Circumference: " + "\n22/7 = " + (2 * 22/7 * num) + "cm " + "\n3,14 = " + (2 * 3,14 * num) + "cm");
+         Console.WriteLine("Circle's Circumference: " + "\n22/7 = " + (2 * 22/7 * num) + "cm " + "\n3,14 = " + (2 * 3.14 * num) + "cm");
       }
    }
 }
