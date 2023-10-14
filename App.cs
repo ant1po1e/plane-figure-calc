@@ -4,7 +4,14 @@ public class Program
 {
    public static void Main(string[] args)
    {
-      Console.WriteLine("Select shape: \n 1 - Square \n 2 - Rectangle \n 3 - Triangle \n 4 - Circle");
+      Console.WriteLine("|==========================|");
+      Console.WriteLine("|       Select Shape       |");
+      Console.WriteLine("|==========================|");
+      Console.WriteLine("| 1 - Square               |");
+      Console.WriteLine("| 2 - Rectangle            |");
+      Console.WriteLine("| 3 - Triangle             |");
+      Console.WriteLine("| 4 - Circle               |");
+      Console.WriteLine("|__________________________|");
 
 
       // Input shape
